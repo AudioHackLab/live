@@ -184,6 +184,7 @@ Creare link simboliconella home per i VST:
 ```
 
 A questo punto attraverso Carla (installato con i pacchetti di kxstudio) aprire la dll di Jamtaba VST/JamtabaVST2.dll
+
 ![image](src/200.png)
 ![image](src/210.png)
 ![image](src/220.png)
@@ -199,9 +200,11 @@ Scaricate il file eseguibile [ASIO4ALL_2_14_English.exe](http://www.asio4all.org
 Jack Audio Connection Kit vi permetterà di indirizzare l’output audio della vostra DAW al client NINJAM. Scaricate il file di installazione [Jack_v1.9.11_32_setup.exe](https://jackaudio.org/downloads/) (noi abbiamo usato la versione a 32 bit) dalla sezione download. Anche in questo caso, seguite la procedura di installazione. Andate nella cartella `C:\Program Files (x86)\Jack` e eseguite il file `qjackctl.exe`.
 
 ![image](src/230.png)
+
 Questa è l’interfaccia del Jack Audio Connection Kit.
 
 ![image](src/240.png)
+
 Premete il tasto Setup per selezionare come interfaccia i driver ASIO4ALL che avete appena installato.
 Avviate il server Jack premendo Start. In caso di errore, provate a premere Start una seconda volta.
 
@@ -213,7 +216,9 @@ Scegliete il menu Options e poi Audio configuration. Scegliete ASIO come Input/o
 Useremo Jack per indirizzare il flusso audio dalla DAW al client NINJAM. Occorre configurare la DAW e indirizzare il suo flusso audio in uscita verso il server Jack, identificato con il nome JackRouter. Qui utilizziamo [Podium Free](https://zynewave.com/podium-free/), a titolo di esempio.
 
 ![image](src/250.png)
+
 Torniamo a Jack e premiamo il tasto Connection per accedere alla finestra dove si possono stabilire le connessioni tra le porte di uscita e di ingresso. Premendo Disconnect All si scollegano tutte le connessioni esistenti. 
 
 Per creare nuove connessioni basterà selezionare le porte desiderate e premere il tasto Connect.
+
 ![image](src/260.png)
