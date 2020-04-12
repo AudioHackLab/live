@@ -24,22 +24,28 @@ Una volta completata l’installazione abbiamo due possibilità o inserire il pl
 ![image](src/10.png)
 
 ![image](src/20.png)
+
 L’interfaccia presenta una serie di mappe dei server pubblici messi a disposizione dai creatori di NINJAM dove si possono vedere in tempo reale i nickname di chi è connesso e da dove si connette. Sul lato destro della mappa vediamo due bottoni. Il pulsante listen ci permette di ascoltare quello che viene suonato all’interno della stanza, enter ci permette di entrare e interagire con il nostro audio insieme agli altri utenti. 
 
 ![image](src/30.png)
+
 Nella parte destra vediamo la chat pubblica dove si può scrivere in tempo reale con chi è connesso. Una volta connessi al server c’è la possibilità di chattare con gli utenti che sono presenti.
 
 Per connetterti ad un server specifico che non appare nell’elenco (come i server di AudioHackLab e di BitNet01) clicca F2 oppure vai sul menù: NINJAM > Connect with private server e apparirà una finestra di questo tipo:
+
 ![image](src/40.png)
+
 Inserisci i dati del server, il tuo user e pass (non obbligatoria) e sarai connesso al server desiderato.
 
 Una volta connessi al server nella parte in basso troviamo tre pannelli. 
 Nel pannello metronome possiamo gestire il volume del metronomo del server.
+
 ![image](src/50.png)
 
 Nel secondo pannello troviamo i parametri di sincronizzazione del server, il valore del BPI è il valore di riferimento per la sincronizzazione di tutti gli utenti, nel caso illustrato dall’immagine ogni 4 battute il server farà uno streaming dell’audio che viene suonato. Ovviamente questo parametro deve essere messo in accordo con tutti gli utenti connessi per scegliere le durate delle singole parti fino ad un massimo di 64 battute per istanza. Questo parametro è fondamentale per comprendere l’interattività di NINJAM. 
 Ad esempio se suono una parte di 16  battute l’altro utente remoto presente nel server riceverà le mie 16 battute solo dopo che il ciclo si è concluso nel proprio client.
 Il valore di BPM ovviamente determina i battiti al minuto della sessione musicale, questo valore per risultati ideali deve essere uguale per tutti gli utenti e per tutte le DAW dove è inserito il Plugin 
+
 ![image](src/60.png)
 
 Il terzo pannello che troviamo ci permette di regolare il volume generale della sessione che stiamo suonando in remoto.
@@ -57,12 +63,12 @@ Nel momento in cui scriviamo questa guida, la versione di OSX che è stata usata
 Scaricate l’ultima versione aggiornata di Jamtaba a questo link, seguite la procedura di installazione senza modificare i parametri, verrà installato un software stand-alone e un plugin AudioUnit (AU). 
 
 ![image](src/80.png)
+
 Dopo aver lanciato l’applicazione, a sinistra troviamo il master-volume di quello che stiamo trasmettendo con la possibilità di modificare il gain, il pan, o avviare lo streaming della nostra webcam. Nella versione standalone, in fondo al pannello vediamo la sorgente audio che viene mandata agli altri utenti (nell’immagine in questo caso JackRouter) nella versione AU dovremmo vedere il nome della  nostra DAW. 
 
 ![image](src/90.png)
-Nella versione standalone se volessimo
-modificare questo parametro premiamo F5 
-per le preferenze audio oppure andiamo in _Preferences -> Audio_
+
+Nella versione standalone se volessimo modificare questo parametro premiamo F5 per le preferenze audio oppure andiamo in _Preferences -> Audio_
 
 Il pannello che si apre ci permetterà di settare le nostre preferenze audio come meglio riteniamo. 
 ![image](src/100.png)
