@@ -115,14 +115,17 @@ __NB__: Ricordati di avere lo stesso valore di BPM sia in Jamtaba che nella tua 
 Il metodo più semplice per farlo e’ aggiungere sul proprio sistema i repository di KxStudio che nel momento in cui sto scrivendo farà riferimento al sistema operativo Debian 10 (Buster) e Ubuntu 18.04 (Bionic).
 
 Aggiorniamo la lista dei pacchetti e installiamo gli aggiornamenti.
-
-    sudo apt-get update
-    sudo apt-get upgrade
+```
+sudo apt-get update
+sudo apt-get upgrade
+```
 
 #### Configurazione Jack
 Consigliamo di usare jack audio per ridurre le latenze, tuttavia questa guida non deve essere un punto di riferimento per jack, ci sono guide fatte meglio già in rete. 
 
-```    sudo apt-get install jackd2 qjackctl ```
+```    
+sudo apt-get install jackd2 qjackctl 
+```
 
 Se sul vostro sistema il vostro ambiente desktop utilizza pulseAudio vi consigliamo di fare l’integrazione tra jack e pulse audio, potete consultare: https://wiki.ubuntu-it.org/Multimedia/Audio/IntegrazioneJackPulseAudio
 
@@ -132,21 +135,25 @@ Ci sono diversi client ninjam per Gnu/Linux.
 I passaggi per installare il client testuale:
 
 ```
-    sudo apt-get update
-    sudo apt-get install git-core build-essential libasound2-dev libncurses-dev libjack-jackd2-dev libvorbis-dev
+sudo apt-get update
+sudo apt-get install git-core build-essential libasound2-dev libncurses-dev libjack-jackd2-dev libvorbis-dev
 
-    git clone https://www-dev.cockos.com/ninjam/ninjam.git
-    cd ninjam/ninjam/cursesclient/
-    make
+git clone https://www-dev.cockos.com/ninjam/ninjam.git
+cd ninjam/ninjam/cursesclient/
+make
 ```
 
 Una volta compilato eseguirlo con questa sintassi:
     
- ```   ./cninjam 5.9.104.254:8080 -jack -user anonymous:nome```
+ ```
+ ./cninjam 5.9.104.254:8080 -jack -user anonymous:nome
+ ```
 
 Oppure se avete scelto di non usare jack:
     
-```    ./cninjam 5.9.104.254:8080 -user anonymous:nome```
+```
+./cninjam 5.9.104.254:8080 -user anonymous:nome
+```
 
 ![image](src/180.png)
 
@@ -158,29 +165,28 @@ Il metodo più semplice per farlo e’ aggiungere sul proprio sistema i reposito
 Seguono i passaggi per installare KxStudio:
 
 ```
-    sudo apt-get install apt-transport-https gpgv
-    wget https://launchpad.net/~kxstudio-debian/+archive/kxstudio/+files/kxstudio-repos_10.0.3_all.deb
-    sudo dpkg -i kxstudio-repos_10.0.3_all.deb
-    sudo apt install kxstudio-meta-audio-plugins kxstudio-meta-wine lmms-vst-full:i386 dssi-vst festige drumkv1-lv2
+sudo apt-get install apt-transport-https gpgv
+wget https://launchpad.net/~kxstudio-debian/+archive/kxstudio/+files/kxstudio-repos_10.0.3_all.deb
+sudo dpkg -i kxstudio-repos_10.0.3_all.deb
+sudo apt install kxstudio-meta-audio-plugins kxstudio-meta-wine lmms-vst-full:i386 dssi-vst festige drumkv1-lv2
 ```
-
-
-
 
 #### Configurazione routing audio
 Lanciate _Cadence_.  
 Come Jack bridge verificate sia caricato come tipo `ALSA -> Loop -> Jack`
 Ora cliccate su configure per configurate la vostra scheda audio nel menu alsa, salvate e uscite.
 Cliccate su start per far partire Jack. e verificate che lo stato di Jack sia `Started` 
+
 ![image](src/190.png)
 
 #### Installazione JamTaba
 A questo punto scaricare il client VST jamtaba su Linux disponibile a questo link ed installarlo come per windows (esegui l’exe con wine).
 
-Creare link simboliconella home per i VST:
+Creare link simbolico nella home per i VST:
+
 ```
-    cd $HOME
-    ln -s .wine/drive_c/Programmi/VSTPlugins/ VST
+cd $HOME
+ln -s .wine/drive_c/Programmi/VSTPlugins/ VST
 ```
 
 A questo punto attraverso Carla (installato con i pacchetti di kxstudio) aprire la dll di Jamtaba VST/JamtabaVST2.dll
