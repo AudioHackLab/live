@@ -76,27 +76,34 @@ Il pannello che si apre ci permetterà di settare le nostre preferenze audio com
 ### Installare e configurare Jack Audio Connection Kit
 Jack Audio Connection Kit vi permetterà di indirizzare l’output audio della vostra DAW al client NINJAM. Scaricate il file di installazione JackOSX 0.92_b3 dalla sezione download. Seguite la procedura guidata di installazione senza modificare nessun parametro. Una volta finita la procedura dovreste trovare tra le Applicazioni l’app JackPilot.
 Questa è l’interfaccia: 
+
 ![image](src/110.png)
 
 Cliccate sul tasto Start per avviare il JackServer, una volta avviato l’interfaccia dovrebbe apparire così: 
+
 ![image](src/120.png)
 
 Cliccando sul tasto Routing dovrebbe apparirvi questo:
+
 ![image](src/130.png)
  
 System sta a significare l’interfaccia audio del nostro laptop, capture è il microfono e playback sono le nostre casse. 
 
 Ora avviamo la nostra DAW preferita da cui mandare l’audio e mettiamo tra le preferenze l’output alla scheda audio virtuale che Jack ha appena creato, per esempio in Ableton Live:
+
 ![image](src/140.png)
 
 Ora avviamo Jamtaba standalone e facciamo la stessa cosa ma mettiamo l’interfaccia JackRouter come input.
 __NB__: se Jamtaba era aperto prima di avviare il JackServer non vedrà la scheda, quindi chiudi Jamtaba e riaprilo. 
+
 ![image](src/150.png)
 
 Ora su JackPilot dovremmo avere una cosa del genere: 
+
 ![image](src/160.png)
 
 Clicchiamo sull’out1 della nostra DAW e facciamo doppio click sull’in1 di Jamtaba, se diventa rosso è collegato. 
+
 ![image](src/170.png)
 
 Facciamo la stessa cosa per l’out2 e l’in2. Ora la nostra DAW è collegata con Jamtaba Standalone e possiamo mandare in streaming quello che desideriamo.
@@ -115,7 +122,7 @@ Aggiorniamo la lista dei pacchetti e installiamo gli aggiornamenti.
 #### Configurazione Jack
 Consigliamo di usare jack audio per ridurre le latenze, tuttavia questa guida non deve essere un punto di riferimento per jack, ci sono guide fatte meglio già in rete. 
 
-    sudo apt-get install jackd2 qjackctl 
+```    sudo apt-get install jackd2 qjackctl ```
 
 Se sul vostro sistema il vostro ambiente desktop utilizza pulseAudio vi consigliamo di fare l’integrazione tra jack e pulse audio, potete consultare: https://wiki.ubuntu-it.org/Multimedia/Audio/IntegrazioneJackPulseAudio
 
@@ -124,21 +131,22 @@ Ci sono diversi client ninjam per Gnu/Linux.
 ### Client Ninjam Testuale
 I passaggi per installare il client testuale:
 
+```
     sudo apt-get update
     sudo apt-get install git-core build-essential libasound2-dev libncurses-dev libjack-jackd2-dev libvorbis-dev
 
     git clone https://www-dev.cockos.com/ninjam/ninjam.git
     cd ninjam/ninjam/cursesclient/
     make
-
+```
 
 Una volta compilato eseguirlo con questa sintassi:
     
-    ./cninjam 5.9.104.254:8080 -jack -user anonymous:nome
+ ```   ./cninjam 5.9.104.254:8080 -jack -user anonymous:nome```
 
 Oppure se avete scelto di non usare jack:
     
-    ./cninjam 5.9.104.254:8080 -user anonymous:nome
+```    ./cninjam 5.9.104.254:8080 -user anonymous:nome```
 
 ![image](src/180.png)
 
@@ -149,10 +157,15 @@ Esiste anche per Linux il client Ninjam JamTaba, tuttavia la versione standalone
 Il metodo più semplice per farlo e’ aggiungere sul proprio sistema i repository di KxStudio.
 Seguono i passaggi per installare KxStudio:
 
+```
     sudo apt-get install apt-transport-https gpgv
     wget https://launchpad.net/~kxstudio-debian/+archive/kxstudio/+files/kxstudio-repos_10.0.3_all.deb
     sudo dpkg -i kxstudio-repos_10.0.3_all.deb
     sudo apt install kxstudio-meta-audio-plugins kxstudio-meta-wine lmms-vst-full:i386 dssi-vst festige drumkv1-lv2
+```
+
+
+
 
 #### Configurazione routing audio
 Lanciate _Cadence_.  
@@ -164,10 +177,11 @@ Cliccate su start per far partire Jack. e verificate che lo stato di Jack sia `S
 #### Installazione JamTaba
 A questo punto scaricare il client VST jamtaba su Linux disponibile a questo link ed installarlo come per windows (esegui l’exe con wine).
 
-Creare link simbolico nella home per i VST:
-
+Creare link simboliconella home per i VST:
+```
     cd $HOME
     ln -s .wine/drive_c/Programmi/VSTPlugins/ VST
+```
 
 A questo punto attraverso Carla (installato con i pacchetti di kxstudio) aprire la dll di Jamtaba VST/JamtabaVST2.dll
 ![image](src/200.png)
