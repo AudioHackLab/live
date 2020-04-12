@@ -60,7 +60,7 @@ __NB__: Nei vari test che abbiamo fatto alcune volte abbiamo riscontrato dei pro
 
 Nel momento in cui scriviamo questa guida, la versione di OSX che è stata usata per testare il funzionamento è High Sierra 10.13.3.
 ### Installare e configurare Jamtaba
-Scaricate l’ultima versione aggiornata di Jamtaba a questo link, seguite la procedura di installazione senza modificare i parametri, verrà installato un software stand-alone e un plugin AudioUnit (AU). 
+Scaricate l’ultima versione aggiornata di Jamtaba, seguite la procedura di installazione senza modificare i parametri, verrà installato un software stand-alone e un plugin AudioUnit (AU). 
 
 ![image](src/80.png)
 
