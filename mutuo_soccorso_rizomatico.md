@@ -1,9 +1,8 @@
-![mutuo-soccorso-rizomatico](mutuo-soccorso-rizomatico.png)
 # Mutuo soccorso rizomatico per Networked Music Perfomances
 
 _A cura di Audio HackLab e BitNet01_
 
-![logo_ahl](logo-ahl.png)  ![logo_bn01](logo-binet.png)
+![logo_ahl](logo-ahl.png) ![mutuo-soccorso-rizomatico](mutuo-soccorso-rizomatico.png) ![logo_bn01](logo-binet.png)
 
 Stiamo vivendo una realtà distopica che fino a qualche mese fa potevamo solo rintracciare in qualche film sci-fi di serie B. 
 Il corpo diventa obsoleto, il tramite dell’epidemia, tutta la vita entra in una dimensione puramente cognitiva. Le individualità si alternano tra il rischio di contagio dovuto all’obbligo di  andare a lavorare e continuare a produrre, lo smart-working su piattaforme con algoritmi che calcolano la percentuale di attenzione e il ritrovare forme di svago domiciliare.
