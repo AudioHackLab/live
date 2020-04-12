@@ -18,7 +18,7 @@ Se questo suona piuttosto bizzarro, lo è, finché non ci si abitua, poi diventa
 
 ## Jamtaba client
 ### Introduzione all’utilizzo
-Jamtaba è un software free ed open-source, nato come fork del client di NINJAM, si differenzia da Ninjam in quanto è bastato su plugin VST/AU. Pur essendo gratuito, una donazione di denaro, anche piccola, sarà sicuramente gradita dagli sviluppatori.
+Jamtaba è un software free ed open-source, nato come fork del client di NINJAM, si differenzia da Ninjam in quanto è basato su plugin VST/AU. Pur essendo gratuito, una donazione di denaro, anche piccola, sarà sicuramente gradita dagli sviluppatori.
 Una volta completata l’installazione abbiamo due possibilità o inserire il plugin sul canale master della nostra DAW oppure avviare l’applicazione standalone. In entrambi i casi l’interfaccia si presenta così:
 
 ![image](src/10.png)
