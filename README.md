@@ -5,4 +5,4 @@ Informazioni utili per suonare in diretta da ogni parte del mondo.
 
 [Come installare ed usare Ninjam](ninjam/installation.md)
 
-Puoi ascoltare i nostri live direttamente da audiohacklab.org/live o bit-01.net
+Puoi ascoltare i nostri live direttamente dal [sito di AudioHackLab](audiohacklab.org/live) o dal [sito di BitNet01](bit-01.net/live)
