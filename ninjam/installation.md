@@ -49,10 +49,11 @@ Il valore di BPM ovviamente determina i battiti al minuto della sessione musical
 ![image](src/60.png)
 
 Il terzo pannello che troviamo ci permette di regolare il volume generale della sessione che stiamo suonando in remoto.
+
 ![image](src/70.png)
 
 
-__NB__: Nei vari test che abbiamo fatto alcune volte abbiamo riscontrato dei problemi con il Plugin AU, nel caso voleste utilizzare Jamtaba standalone e mandare l’audio della nostra DAW a Jamtaba vi consigliamo di utilizzare il Jack Audio Connection Kit
+__NB__: Nei vari test che abbiamo fatto alcune volte abbiamo riscontrato dei problemi con il Plugin AU, nel caso voleste utilizzare Jamtaba standalone e mandare l’audio della nostra DAW a Jamtaba vi consigliamo di utilizzare il Jack Audio Connection Kit.
 
 
 
@@ -70,7 +71,8 @@ Dopo aver lanciato l’applicazione, a sinistra troviamo il master-volume di que
 
 Nella versione standalone se volessimo modificare questo parametro premiamo F5 per le preferenze audio oppure andiamo in _Preferences -> Audio_
 
-Il pannello che si apre ci permetterà di settare le nostre preferenze audio come meglio riteniamo. 
+Il pannello che si apre ci permetterà di settare le nostre preferenze audio come meglio riteniamo.
+
 ![image](src/100.png)
 
 ### Installare e configurare Jack Audio Connection Kit
