@@ -209,10 +209,12 @@ sudo apt install kxstudio-meta-audio-plugins cadence drumkv1-lv2 carla-git carla
 #### Configurazione routing audio
 Lanciate _Cadence_.  
 ![image](src/190.png)
+
 Nella sezione Jack bridge verificate sia caricato il tipo `ALSA->Loop->Jack` e cliccate su `Start`.
 Nella Sezione Jack Status, cliccate su configure e configurare la vostra scheda audio (questa parte e’ molto importante altrimenti jack resta sordomuto) spostandovi nel menù alsa per selezionare la vostra scheda audio, una volta fatto cliccate su OK per tornare alla finestra precedente di Cadence.
 
 ![image](src/280.png)
+
 Cliccate su Start per far partire Jack e verificate che lo stato di Jack sia `Started`, cliccate anche sulla spunta Auto-start.
 Ora cliccate sul menu `tweak` e su `WineASIO` cliccate su `Autostart server` e su `Apply Now`, cliccate su “OK” e chiudete Cadence.
 Aprite terminale e registrate la libreria wineasio su wine, con il comando:
