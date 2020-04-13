@@ -156,7 +156,7 @@ cninjam live.audiohacklab.org:2049 -user anonymous:nome
 
 ![image](src/180.png)
 
-Client Ninjam QT (wahjam)
+### Client Ninjam QT (wahjam)
 I passaggi per installare il client qt:
 ```
 sudo apt-get update
