@@ -1,6 +1,8 @@
 # live
-Useful information to play live from all over the world
+Informazioni utili per suonare in diretta da ogni parte del mondo.
 
-[Why this repo?](mutuo_soccorso_rizomatico.md)
+[Perchè questa repository?](mutuo_soccorso_rizomatico.md)
 
-[How to install and use Ninjam](ninjam/installation.md)
+[Come installare ed usare Ninjam](ninjam/installation.md)
+
+Puoi ascoltare i nostri live direttamente da audiohacklab.org/live o bit-01.net
