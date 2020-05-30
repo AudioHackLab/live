@@ -1,4 +1,4 @@
-# Mutuo soccorso rizomatico per Networked Music Perfomances
+# Mutuo soccorso rizomatico
 
 ![mutuo-soccorso-rizomatico](mutuo-soccorso-rizomatico.png)
 
@@ -18,4 +18,4 @@ La definizione di mutuo soccorso prende il via dalla parola latina _mutuus_, che
 
 Il termine _rizomatico_ deriva da rizoma che in botanica è un particolare tipo di radice dove qualsiasi punto è connesso a ogni altro punto in modo non gerarchico: non c’è un centro, né una direzione, solo concatenazioni. Il rizoma si espande in tutte le direzioni e questo crea molteplicità. In filosofia Gilles Deleuze e Felix Guattari, pongono il concetto di rizoma al centro di un modello organizzativo capillare in grado di descrivere e cambiare i processi sociali e culturali. I due studiosi francesi riconoscono al pensiero veramente creativo e aperto al cambiamento la vera e propria necessità di diventare “rizomatico”, al fine di riverberarsi in maniera potenzialmente vantaggiosa sia per il singolo che per la collettività.
 
-La _Networked Music Perfomance_ è un'interazione in tempo reale su una rete di computer che consente ai musicisti di luoghi diversi di esibirsi come se fossero nella stessa stanza. Un primo esempio di NMP è “Imaginary Landscape No. 4 for Twelve Radios” del compositore John Cage. Il pezzo utilizzava radio a transistor come strumento musicale. Oggi ci si riferisce alla possibilità tecnica di suonare insieme nonostante latenza e larghezza di banda delle connessioni.
+La _Networked Music Performance_ è un'interazione in tempo reale su una rete di computer che consente ai musicisti di luoghi diversi di esibirsi come se fossero nella stessa stanza. Un primo esempio di NMP è “Imaginary Landscape No. 4 for Twelve Radios” del compositore John Cage. Il pezzo utilizzava radio a transistor come strumento musicale. Oggi ci si riferisce alla possibilità tecnica di suonare insieme nonostante latenza e larghezza di banda delle connessioni.
