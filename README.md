@@ -13,7 +13,8 @@ La definizione di mutuo soccorso prende il via dalla parola latina _mutuus_, che
 
 Il termine _rizomatico_ deriva da rizoma che in botanica è un particolare tipo di radice dove qualsiasi punto è connesso a ogni altro punto in modo non gerarchico: non c’è un centro, né una direzione, solo concatenazioni. Il rizoma si espande in tutte le direzioni e questo crea molteplicità. In filosofia Gilles Deleuze e Felix Guattari, pongono il concetto di rizoma al centro di un modello organizzativo capillare in grado di descrivere e cambiare i processi sociali e culturali. I due studiosi francesi riconoscono al pensiero veramente creativo e aperto al cambiamento la vera e propria necessità di diventare “rizomatico”, al fine di riverberarsi in maniera potenzialmente vantaggiosa sia per il singolo che per la collettività.
 
-Come BitNet01 e Audio HackLab, collettivi costituiti da persone distanti centinaia di chilometri, abbiamo sentito l’esigenza di suonare insieme anche nell’isolamento, escogitando linee di fuga e soluzioni tecniche al di fuori dalle logiche commerciali e dalle piattaforme proprietarie. Per questo abbiamo creato due server NINJAM e organizziamo jam session aperte a scadenza regolare.
+Come BitNet01 e Audio HackLab, collettivi costituiti da persone distanti centinaia di chilometri, abbiamo sentito l’esigenza di suonare insieme anche nell’isolamento, escogitando linee di fuga e soluzioni tecniche al di fuori dalle logiche commerciali e dalle piattaforme proprietarie. Per questo abbiamo creato due server NINJAM, un software che permette di suonare sincronizzati attraverso Internet. Ogni partecipante può ascoltare e regolare i singoli volumi degli altri musicisti. 
+
 
 [Qui](ninjam/guida_installazione_ninjam.md) puoi approfondire e trovare la guida per l'installazione.
 
