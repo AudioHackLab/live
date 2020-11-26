@@ -1,4 +1,4 @@
-# Rhizomatic mutual aid _![italian](README.md)_
+# Rhizomatic mutual aid _[![italian](README.md)]_
 
 ![mutuo-soccorso-rizomatico](mutuo-soccorso-rizomatico.png)
 
