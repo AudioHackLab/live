@@ -9,12 +9,12 @@ Musicisti, makers, hackers, programmatori, VJ e DJ abituati a momenti di sociali
 Abbiamo cercato di colmare la distanza col pubblico tramite dirette streaming di singoli, uno alla volta, ognuno con la propria porzione di tempo a disposizione. Ma il vero processo artistico collettivo di azione e fruizione non si riesce a rendere virtualmente.
 Fare network significa creare reti di relazione, condividere esperienze e idee, realizzare contesti in cui le persone possano sentirsi libere di comunicare e di creare artisticamente in modo che emittente e destinatario, artista e pubblico, si confondano e perdano il loro significato originario.
 
-BitNet01 e Audio HackLab sono due collettivi costituiti da persone distanti centinaia di chilometri che in queste settimane hanno sentito l’esigenza di suonare insieme anche nell’isolamento, escogitando linee di fuga e soluzioni tecniche al di fuori dalle logiche commerciali e dalle piattaforme proprietarie.
-
 La definizione di mutuo soccorso prende il via dalla parola latina _mutuus_, che significa appunto “reciproco, mutuo, scambievole” e la parola _soccorso_ che indica l’aiuto nel momento del bisogno. Le società di mutuo soccorso sono istituzioni a base associativa volontaria in cui i soci membri aderiscono al principio dell’aiuto reciproco, senza fini di lucro o arricchimento individuale. Data l’origine storica del termine, oggi vogliamo dargli un significato di solidarietà umana fatti di corpi congiunti virtualmente che mettano a disposizione di tutte e tutti degli strumenti per aiutarci.
 
 Il termine _rizomatico_ deriva da rizoma che in botanica è un particolare tipo di radice dove qualsiasi punto è connesso a ogni altro punto in modo non gerarchico: non c’è un centro, né una direzione, solo concatenazioni. Il rizoma si espande in tutte le direzioni e questo crea molteplicità. In filosofia Gilles Deleuze e Felix Guattari, pongono il concetto di rizoma al centro di un modello organizzativo capillare in grado di descrivere e cambiare i processi sociali e culturali. I due studiosi francesi riconoscono al pensiero veramente creativo e aperto al cambiamento la vera e propria necessità di diventare “rizomatico”, al fine di riverberarsi in maniera potenzialmente vantaggiosa sia per il singolo che per la collettività.
 
-[Qui](ninjam/guida_installazione_ninjam.md) puoi trovare la guida per l'installazione.
+Come BitNet01 e Audio HackLab, collettivi costituiti da persone distanti centinaia di chilometri, abbiamo sentito l’esigenza di suonare insieme anche nell’isolamento, escogitando linee di fuga e soluzioni tecniche al di fuori dalle logiche commerciali e dalle piattaforme proprietarie. Per questo abbiamo creato due server NINJAM e organizziamo jam session aperte a scadenza regolare.
+
+[Qui](ninjam/guida_installazione_ninjam.md) puoi approfondire e trovare la guida per l'installazione.
 
 Lo streaming audio è disponibile sul [sito di AudioHackLab](https://audiohacklab.org/live/) o sul [sito di BitNet01](https://bit-01.net/live/)
