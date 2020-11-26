@@ -16,6 +16,6 @@ Il termine _rizomatico_ deriva da rizoma che in botanica è un particolare tipo 
 Come BitNet01 e Audio HackLab, collettivi costituiti da persone distanti centinaia di chilometri, abbiamo sentito l’esigenza di suonare insieme anche nell’isolamento, escogitando linee di fuga e soluzioni tecniche al di fuori dalle logiche commerciali e dalle piattaforme proprietarie. A questo scopo abbiamo creato due server NINJAM, un software che permette di suonare sincronizzati attraverso Internet. Ogni partecipante può ascoltare e regolare i singoli volumi degli altri musicisti. 
 
 
-[Qui](ninjam/guida_installazione_ninjam.md) puoi approfondire e trovare la guida per l'installazione.
+[Qui](ninjam/guida_installazione_ninjam.md) puoi approfondire e trovare la guida per l'installazione del client NINJAM.
 
 Lo streaming audio è disponibile sul [sito di AudioHackLab](https://audiohacklab.org/live/) o sul [sito di BitNet01](https://bit-01.net/live/)
