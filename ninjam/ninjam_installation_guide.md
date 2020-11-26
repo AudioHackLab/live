@@ -16,8 +16,6 @@ If this sounds pretty bizarre, it sort of is, until you get used to it, then it 
 
 
 ## Jamtaba client
-
-### Introducion to use
 Jamtaba is a free and open-source software, born as a fork of the NINJAM client and is based on VST/AU plugins. Even if it is free, even a small donation of money will certainly be appreciated by the developers.
 Once the installation is complete we have two possibilities: insert the plugin on the master channel
 of our DAW or start the standalone application. In both cases the interface looks like this:
