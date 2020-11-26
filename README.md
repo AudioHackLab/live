@@ -1,4 +1,4 @@
-# Rhizomatic mutual aid [![Italian](mutuo_soccorso_rizomatico.md)]
+# Rhizomatic mutual aid [![italian](mutuo_soccorso_rizomatico.md)]
 
 ![mutuo-soccorso-rizomatico](mutuo-soccorso-rizomatico.png)
 
@@ -22,7 +22,7 @@ The term rhizomatic derives from _rhizome_ which in botany is a particular type 
 there is no center, no direction, only concatenations. The rhizome expands in all directions creating multiplicity. In philosophy Gilles Deleuze and Felix
 Guattari place the concept of rhizome at the center of a widespread organizational model capable of describing and changing social and cultural processes.The two French philosopher recognize the real need to become "rhizomatic" to truly creative open-thinking, in order to reverberate in a potentially advantageous way both for the individual and for the community.
 
-Audio HackLab and BitNet01 have created two NINJAM servers, a software that allows you to play synchronized via the Internet. Any participant can listen to any other participant. Each user can also edit their own personal mix as they wish. NINJAM is a software licensed under the GNU GPL2 Free Software and uses
+Audio HackLab and BitNet01 have created two NINJAM servers, a software that allows you to play synchronized via the Internet. Any participant can listen to any other participant and edit his own personal mix. NINJAM is a software licensed under the GNU GPL2 Free Software and uses
 OGG Vorbis audio compression to compress audio and reduce latencies.
 
 [Here](ninjam/installation_english.md) you can find the installation guide.
