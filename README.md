@@ -1,9 +1,9 @@
-# Mutuo soccorso rizomatico
-# Rhizomatic mutual aid 
-
-Informazioni utili per suonare in diretta da ogni parte del mondo.
+## Mutuo soccorso rizomatico
+## Rhizomatic mutual aid 
 
 [Perchè questa repository?](mutuo_soccorso_rizomatico.md)
+
+
 
 [Come installare ed usare Ninjam](ninjam/installation.md)
 
