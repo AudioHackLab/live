@@ -1,4 +1,4 @@
-# Mutuo soccorso rizomatico [![english](readme.md)]
+# Mutuo soccorso rizomatico [![english](README.md)]
 
 ![mutuo-soccorso-rizomatico](mutuo-soccorso-rizomatico.png)
 
