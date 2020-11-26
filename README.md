@@ -20,6 +20,6 @@ Come BitNet01 e Audio HackLab, collettivi costituiti da persone distanti centina
 
 Gli indirizzi dei server NINJAM sono:  
 name: _live.audiohacklab.org_ port: _2049_  
-name: _network.bit-01.netport_: _2049_  
+name: _network.bit-01.net port_: _2049_  
 
 Lo streaming audio è disponibile sul [sito di AudioHackLab](https://audiohacklab.org/live/) o sul [sito di BitNet01](https://bit-01.net/live/)
