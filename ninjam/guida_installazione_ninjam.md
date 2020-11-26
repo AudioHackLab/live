@@ -1,4 +1,4 @@
-# Configurazione ambiente software per NINJAM client
+# Guida all'installazione NINJAM client
 
 _A cura di [BitNet01](bit-01.net) e [AudioHackLab](audiohacklab.org)_
 
