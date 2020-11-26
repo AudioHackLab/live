@@ -25,6 +25,6 @@ Guattari place the concept of rhizome at the center of a widespread organization
 Audio HackLab and BitNet01 have created two NINJAM servers, a software that allows you to play synchronized via the Internet. Any participant can listen to any other participant and edit his own personal mix. NINJAM is a software licensed under the GNU GPL2 Free Software and uses
 OGG Vorbis audio compression to compress audio and reduce latencies.
 
-[Here](ninjam/installation_english.md) you can find the installation guide.
+[Here](ninjam/ninjam_installation_guide.md) you can find the installation guide.
 
 Audio can be streamed directly from [AudioHackLab website](https://audiohacklab.org/live/) or [BitNet01 website](https://bit-01.net/live/)
