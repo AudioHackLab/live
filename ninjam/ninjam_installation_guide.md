@@ -34,33 +34,24 @@ of this type will appear:
 
 ![image](src/40.png)
 
-Enter the server data, your user and pass (not mandatory) and you will be connected to the desired
+Enter the server data, your user and password (not mandatory) and you will be connected to the desired
 server.
 Once connected to the server in the lower part we find three panels. In the metronome panel we can
 manage the metronome volume of the server.
 
 ![image](src/50.png)
 
-In the second panel we find the server synchronization parameters, the BPI value is the reference
-value for the synchronization of all users, in the case illustrated by the image every 4 bars the server
-will stream the audio that is played. Obviously this parameter must be put in agreement with all
-connected users to choose the durations of the individual parts up to a maximum of 64 bars per
-instance. This parameter is fundamental for understanding the interactivity of NINJAM. For
-example, if I play a part of 16 bars, the other remote user present in the server will receive my 16
-bars only after the cycle has ended in his client. The BPM value obviously determines the beats per
-minute of the music session, this value for ideal results must be the same for all users and for all
-DAWs where the Plugin is inserted.
+In the second panel we find the server synchrnization parameters, the BPI value is the reference value for the synchronization of all users, in the case illustrated by the image every 4 bars the server will stream the audio that is played. Obviously this parameter must be put in agreement with all
+connected users to choose the durations of the individual parts up to a maximum of 64 bars per instance. This parameter is fundamental for understanding the interactivity of NINJAM. For example, if I play a part of 16 bars, the other remote user present in the server will receive my 16
+bars only after the cycle has ended in his client. The BPM value obviously determines the beats per minute of the music session, this value for ideal results must be the same for all users and for all DAWs where the Plugin is inserted.
 
 ![image](src/60.png)
 
-The third panel that we find allows us to adjust the general volume of the session that we are
-playing, remotely.
+The third panel that we find allows us to adjust the general volume of the session that we are playing, remotely.
 
 ![image](src/70.png)
 
-__Note__: In the various tests we've done, sometimes we've encountered problems with the AU Plugin,
-if you want to use standalone Jamtaba and send the audio of our DAW to Jamtaba we recommend
-using the Jack Audio Connection Kit.
+__Note__: In the various tests we've done, sometimes we've encountered problems with the AU Plugin, if you want to use standalone Jamtaba and send the audio of our DAW to Jamtaba we recommend using the Jack Audio Connection Kit.
 
 
 ## Mac OSX
