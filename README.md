@@ -1,30 +1,20 @@
-# Rhizomatic mutual aid [![italian](mutuo_soccorso_rizomatico.md)]
+# Mutuo soccorso rizomatico [![english](rizhomatic_mutual_aid.md)]
 
 ![mutuo-soccorso-rizomatico](mutuo-soccorso-rizomatico.png)
 
-We are experiencing a dystopian reality that until a few months ago we could only
-trace in some sci-fi movies.
-The body becomes obsolete, our lives enters a purely cognitive dimension. Individuals alternate between the obligation to go to work on platforms with algorithms that calculate the percentage of attention and to find forms of home entertainment.
-Our still bodies, in front of LCD screens are trying to reunite virtually and the great social network platforms are toasting for their profits.
-Musicians, makers, hackers, programmers, VJs and DJs used to collective social moments have been forced to make these moments purely individual.
-We have tried to bridge the distance with the public through direct streaming of
-singles, one at a time, each with its own portion of time available. But the true col
-lective artistic process of action and fruition cannot be rendered virtually.
-Networking means creating relationship networks, sharing experiences and ideas,
-creating contexts in which people can feel free to communicate and create artistically so that the broadcaster and recipient, artist and public, get confused and lose their original meaning.
+Stiamo vivendo una realtà distopica che fino a qualche mese fa potevamo solo rintracciare in qualche film sci-fi di serie B. 
+Il corpo diventa obsoleto e tutta la vita entra in una dimensione puramente cognitiva. Le individualità si alternano tra l'obbligo di  andare a lavorare e continuare a produrre su piattaforme dove algoritmi calcolano la percentuale di attenzione e il ritrovare forme di svago domiciliare.
+I nostri corpi sono immobilizzati di fronte agli schermi LCD cercando di ricongiungersi virtualmente e le grandi piattaforme di Social Network brindano per l’impennata di capitali.  
+Musicisti, makers, hackers, programmatori, VJ e DJ abituati a momenti di socialità collettivi sono costretti a fare diventare questi momenti prettamente individuali.
+Abbiamo cercato di colmare la distanza col pubblico tramite dirette streaming di singoli, uno alla volta, ognuno con la propria porzione di tempo a disposizione. Ma il vero processo artistico collettivo di azione e fruizione non si riesce a rendere virtualmente.
+Fare network significa creare reti di relazione, condividere esperienze e idee, realizzare contesti in cui le persone possano sentirsi libere di comunicare e di creare artisticamente in modo che emittente e destinatario, artista e pubblico, si confondano e perdano il loro significato originario.
 
-BitNet01 and Audio HackLab are two collectives made up of people who live hundreds of kilometers apart who in recent weeks have felt the need play together even in isolation, devising escape lines and technical solutions outside from commercial logic and proprietary platforms.
+BitNet01 e Audio HackLab sono due collettivi costituiti da persone distanti centinaia di chilometri che in queste settimane hanno sentito l’esigenza di suonare insieme anche nell’isolamento, escogitando linee di fuga e soluzioni tecniche al di fuori dalle logiche commerciali e dalle piattaforme proprietarie.
 
-The definition of _mutual_ starts from the Latin word mutuus and the word aid which indicates help in times of need. Mutual aid companies are voluntary mem-
-bership-based institutions in which members adhere to the principle of mutual aid, non-profit or individual enrichment. Given the historical origin of the term, today wewant to give it a meaning of human solidarity made up of virtually joint bodies that develop tools to help all of us.
+La definizione di mutuo soccorso prende il via dalla parola latina _mutuus_, che significa appunto “reciproco, mutuo, scambievole” e la parola _soccorso_ che indica l’aiuto nel momento del bisogno. Le società di mutuo soccorso sono istituzioni a base associativa volontaria in cui i soci membri aderiscono al principio dell’aiuto reciproco, senza fini di lucro o arricchimento individuale. Data l’origine storica del termine, oggi vogliamo dargli un significato di solidarietà umana fatti di corpi congiunti virtualmente che mettano a disposizione di tutte e tutti degli strumenti per aiutarci.
 
-The term rhizomatic derives from _rhizome_ which in botany is a particular type of root where any point is connected to any other point in a non-hierarchical way:
-there is no center, no direction, only concatenations. The rhizome expands in all directions creating multiplicity. In philosophy Gilles Deleuze and Felix
-Guattari place the concept of rhizome at the center of a widespread organizational model capable of describing and changing social and cultural processes.The two French philosopher recognize the real need to become "rhizomatic" to truly creative open-thinking, in order to reverberate in a potentially advantageous way both for the individual and for the community.
+Il termine _rizomatico_ deriva da rizoma che in botanica è un particolare tipo di radice dove qualsiasi punto è connesso a ogni altro punto in modo non gerarchico: non c’è un centro, né una direzione, solo concatenazioni. Il rizoma si espande in tutte le direzioni e questo crea molteplicità. In filosofia Gilles Deleuze e Felix Guattari, pongono il concetto di rizoma al centro di un modello organizzativo capillare in grado di descrivere e cambiare i processi sociali e culturali. I due studiosi francesi riconoscono al pensiero veramente creativo e aperto al cambiamento la vera e propria necessità di diventare “rizomatico”, al fine di riverberarsi in maniera potenzialmente vantaggiosa sia per il singolo che per la collettività.
 
-Audio HackLab and BitNet01 have created two NINJAM servers, a software that allows you to play synchronized via the Internet. Any participant can listen to any other participant and edit his own personal mix. NINJAM is a software licensed under the GNU GPL2 Free Software and uses
-OGG Vorbis audio compression to compress audio and reduce latencies.
+[Qui](ninjam/guida_installazione_ninjam.md) puoi trovare la guida per l'installazione.
 
-[Here](ninjam/ninjam_installation_guide.md) you can find the installation guide.
-
-Audio can be streamed directly from [AudioHackLab website](https://audiohacklab.org/live/) or [BitNet01 website](https://bit-01.net/live/)
+Lo streaming audio è disponibile sul [sito di AudioHackLab](https://audiohacklab.org/live/) o sul [sito di BitNet01](https://bit-01.net/live/)
