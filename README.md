@@ -1,4 +1,6 @@
-# live
+# Mutuo soccorso rizomatico
+# Rhizomatic mutual aid 
+
 Informazioni utili per suonare in diretta da ogni parte del mondo.
 
 [Perchè questa repository?](mutuo_soccorso_rizomatico.md)
