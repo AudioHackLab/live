@@ -16,7 +16,7 @@ The term rhizomatic derives from _rhizome_ which in botany is a particular type 
 there is no center, no direction, only concatenations. The rhizome expands in all directions creating multiplicity. In philosophy Gilles Deleuze and Felix
 Guattari place the concept of rhizome at the center of a widespread organizational model capable of describing and changing social and cultural processes.The two French philosopher recognize the real need to become "rhizomatic" to truly creative open-thinking, in order to reverberate in a potentially advantageous way both for the individual and for the community.
 
-BitNet01 and Audio HackLab, two collectives made up of people living hundreds of kilometers apart, have felt the need to play together even in isolation, devising escape lines and technical solutions outside from commercial logic and proprietary platforms. For this purpose we have set up two NINJAM servers. NINJAM is a software that allows to play synchronized via the Internet. Any participant can listen to any other participant and edit his own personal mix. 
+BitNet01 and Audio HackLab, two collectives constituted by people living hundreds of kilometers apart, have felt the need to play together even in isolation, devising escape lines and technical solutions outside from commercial logic and proprietary platforms. For this purpose we have set up two NINJAM servers. NINJAM is a software that allows to play synchronized via the Internet. Any participant can listen to any other participant and edit his own personal mix. 
 
 [Here](ninjam/ninjam_installation_guide.md) you can find more info and the NINJAM client installation guide.
 
