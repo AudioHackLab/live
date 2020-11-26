@@ -5,8 +5,7 @@ _Edited by [BitNet01](bit-01.net) and [AudioHackLab](audiohacklab.org)_
 ## Introduction
 
 __NINJAM__ is a Client/Server software that allows you to play synchronized via the Internet.
-Any participant can listen to any other participant. Each user can also edit their own personal mix as
-they wish. NINJAM is a software with “[Free Software](https://it.wikipedia.org/wiki/Software_libero) GNU GPL2” license to protect the four fundamental freedoms, it is cross-platform with clients available for Linux, Mac OSX and Windows. NINJAM uses OGG Vorbis audio compression to compress audio, then streams it to a NINJAM server, which can then stream it to the other people in your jam. This architecture requires a server with adequate bandwidth, but has no firewall or NAT issues. OGG Vorbis is utilized for its
+Any participant can listen to any other participant. Users can also edit his own personal mix as they wish. NINJAM is a software with “[Free Software](https://it.wikipedia.org/wiki/Software_libero) GNU GPL2” license to protect the four fundamental freedoms, it is cross-platform with clients available for Linux, Mac OSX and Windows. NINJAM uses OGG Vorbis audio compression to compress audio, then streams it to a NINJAM server, which can then stream it to the other people in your jam. This architecture requires a server with adequate bandwidth, but has no firewall or NAT issues. OGG Vorbis is utilized for its
 great low bitrate characteristics and performance. Each user receives a copy of other users audio streams, allowing for each user to adjust the mix to their liking, allowing each user to adjust the mix to their liking.
 
 ## How audio is synchronized?
