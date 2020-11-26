@@ -20,4 +20,8 @@ BitNet01 and Audio HackLab, two collectives made up of people living hundreds of
 
 [Here](ninjam/ninjam_installation_guide.md) you can find more info and the NINJAM client installation guide.
 
+The NINJAM servers adresses are the following:  
+name: _live.audiohacklab.org_ port: _2049_  
+name: _network.bit-01.netport_: _2049_  
+
 Audio can be streamed directly from [AudioHackLab website](https://audiohacklab.org/live/) or [BitNet01 website](https://bit-01.net/live/)
