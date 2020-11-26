@@ -15,6 +15,6 @@ La definizione di mutuo soccorso prende il via dalla parola latina _mutuus_, che
 
 Il termine _rizomatico_ deriva da rizoma che in botanica è un particolare tipo di radice dove qualsiasi punto è connesso a ogni altro punto in modo non gerarchico: non c’è un centro, né una direzione, solo concatenazioni. Il rizoma si espande in tutte le direzioni e questo crea molteplicità. In filosofia Gilles Deleuze e Felix Guattari, pongono il concetto di rizoma al centro di un modello organizzativo capillare in grado di descrivere e cambiare i processi sociali e culturali. I due studiosi francesi riconoscono al pensiero veramente creativo e aperto al cambiamento la vera e propria necessità di diventare “rizomatico”, al fine di riverberarsi in maniera potenzialmente vantaggiosa sia per il singolo che per la collettività.
 
-[Qui](ninjam/installation_english.md) puoi trovare la guida per l'installazione.
+[Qui](ninjam/guida_installazione_ninjam.md) puoi trovare la guida per l'installazione.
 
 Lo streaming audio è disponibile sul [sito di AudioHackLab](https://audiohacklab.org/live/) o sul [sito di BitNet01](https://bit-01.net/live/)
