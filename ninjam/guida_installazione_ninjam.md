@@ -137,7 +137,7 @@ I passaggi per installare il client testuale:
 sudo apt-get update
 sudo apt-get install git-core build-essential libasound2-dev libncurses-dev libjack-jackd2-dev libvorbis-dev
 
-git clone https://www-dev.cockos.com/ninjam/ninjam.git
+git clone https://github.com/AudioHackLab/ninjam.git
 cd ninjam/ninjam/cursesclient/
 make
 sudo cp cninjam /usr/bin/
@@ -162,10 +162,8 @@ cninjam live.audiohacklab.org:2049 -user anonymous:nome
 I passaggi per installare il client qt:
 ```
 sudo apt-get update
-sudo apt-get install git-core build-essential qt5-default
-portaudio19-dev libportmidi-dev libresample1-dev libvorbis-dev
-graphicsmagick-imagemagick-compat
-git clone​ ​ https://github.com/wahjam/wahjam.git
+sudo apt-get install git-core build-essential qt5-default qt5keychain-dev portaudio19-dev libportmidi-dev libresample1-dev libvorbis-dev graphicsmagick-imagemagick-compat
+git clone https://github.com/wahjam/wahjam.git
 cd wahjam
 qmake
 make
