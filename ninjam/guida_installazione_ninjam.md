@@ -158,7 +158,7 @@ cninjam live.audiohacklab.org:2049 -user anonymous:nome
 
 ![image](src/180.png)
 
-### Client Ninjam QT (wahjam)
+### Client Ninjam QT (WahJam)
 I passaggi per installare il client qt:
 ```
 sudo apt-get update
@@ -223,7 +223,7 @@ wine regsvr32 /opt/wine-stable/lib/wine/wineasio.dll.so
 ```
 
 #### Installazione JamTaba
-A questo punto scaricare il client VST [Jamtaba.2.32.bits.installer.exe](https://github.com/elieserdejesus/JamTaba/releases/download/v2.1.10/Jamtaba.2.32.bits.installer.exe) ed installarlo come per windows (eseguire l’exe tramite /usr/bin/wine) e seguite la procedura guidata senza modificare le scelte proposte, prendete nota del percorso esatto della cartella VSTPlugins (potrebbe variare), al termine dell’installazione Jamtaba partirà nella modalità standalone con il suo vst
+A questo punto scaricare il client VST [Jamtaba 2.1.16 32bits](https://github.com/elieserdejesus/JamTaba/releases/download/v2.1.16/Jamtaba.2.32.bits.installer.exe) si tratta di un installer.exe quindi installarlo come per windows (eseguire l’exe tramite /usr/bin/wine) e seguite la procedura guidata senza modificare le scelte proposte, prendete nota del percorso esatto della cartella VSTPlugins (potrebbe variare), al termine dell’installazione Jamtaba partirà nella modalità standalone con il suo vst
 host, chiudete la finestra.
 
 Creare link simbolico nella home per i VST (utilizzando il percorso annotato) e fate partire Carla:
@@ -238,6 +238,10 @@ A questo punto attraverso Carla aprire la dll di Jamtaba VST/JamtabaVST2.dll e c
 ![image](src/200.png)
 ![image](src/210.png)
 
+### Client Ninjam LV2/VST3 (abNinjam)
+
+Si tratta di un client minimale che puo' essere usato direttamente da Carla.
+Alla pagina ufficiale del [progetto](https://github.com/antanasbruzas/abNinjam) potete seguire le istruzioni per l'installazione e la configurazione.
 
 ## Windows
 Per quanto riguarda il sistema operativo Windows abbiamo identificato due differenti soluzioni e potete scegliere quella più adatta alla vostra configurazione software e hardware. La prima, più semplice, prevede l’utilizzo di Jamtaba. Potete riferirvi alla documentazione relativa al Mac Osx, al posto di un plugin AU utilizzerete un VST2. Noi abbiamo testato la versione a 32 bit [Jamtaba.2.32.bits.installer.exe](https://github.com/elieserdejesus/JamTaba/releases/download/v2.1.10/Jamtaba.2.32.bits.installer.exe). Se avete problemi nell’esecuzione di Jamtaba sul vostro sistema, optate per la soluzione seguente.
