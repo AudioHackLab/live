@@ -204,7 +204,7 @@ wget https://launchpad.net/~kxstudio-debian/+archive/kxstudio/+files/kxstudio-re
 sudo dpkg -i kxstudio-repos_10.0.3_all.deb
 sudo dpkg --add-architecture i386
 sudo apt-get update
-sudo apt install kxstudio-meta-audio-plugins cadence drumkv1-lv2 carla-git carla-bridge-win32 carla-vst-wine wineasio wine32-development
+sudo apt install kxstudio-meta-audio-plugins cadence a2jmidid drumkv1-lv2 carla-git carla-bridge-win32 carla-vst-wine wineasio wine32-development
 ```
 
 #### Configurazione routing audio
