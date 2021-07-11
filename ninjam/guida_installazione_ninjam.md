@@ -202,6 +202,7 @@ Seguono i passaggi per installare i tools della suite di KxStudio:
 sudo apt-get install apt-transport-https gpgv
 wget https://launchpad.net/~kxstudio-debian/+archive/kxstudio/+files/kxstudio-repos_10.0.3_all.deb
 sudo dpkg -i kxstudio-repos_10.0.3_all.deb
+sudo dpkg --add-architecture i386
 sudo apt-get update
 sudo apt install kxstudio-meta-audio-plugins cadence drumkv1-lv2 carla-git carla-bridge-win32 carla-vst-wine wineasio
 ```
